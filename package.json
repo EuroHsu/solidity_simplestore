@@ -1,0 +1,26 @@
+{
+  "name": "solidity_simplestore",
+  "version": "1.0.0",
+  "description": "Simple Store",
+  "main": "env.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EuroHsu/solidity_simplestore.git"
+  },
+  "author": "EuroHsu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EuroHsu/solidity_simplestore/issues"
+  },
+  "homepage": "https://github.com/EuroHsu/solidity_simplestore#readme",
+  "dependencies": {
+    "ethereumjs-wallet": "^0.6.2",
+    "truffle-wallet-provider": "0.0.5"
+  }
+}
